@@ -1,1 +1,1 @@
-# credit-score
+# EBAC - Projeto "Credit Score"
